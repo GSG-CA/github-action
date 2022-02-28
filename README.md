@@ -1,4 +1,4 @@
-# github_actions
+# github actions
 
 here we have a book store app, a server-side code built with express, postgres. We'll work on these files to automate our tests using github actions. we'll create three workflows distributed on this week and the coming two weeks to achieve the follows
 - create a workflow to test our basic routes which is not having a database
